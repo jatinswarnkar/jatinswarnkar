@@ -144,11 +144,8 @@ A multi-agent AI platform that helps users prepare for interviews.
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jatinswarnkar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinswarnkar&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jatinswarnkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=jatinswarnkar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -156,9 +153,7 @@ A multi-agent AI platform that helps users prepare for interviews.
 # 📊 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinswarnkar&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinswarnkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
