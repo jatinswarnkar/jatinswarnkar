@@ -141,10 +141,12 @@ A multi-agent AI platform that helps users prepare for interviews.
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=jatinswarnkar&theme=tokyonight&hide_border=true%22"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jatinswarnkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
