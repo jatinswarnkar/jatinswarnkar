@@ -145,9 +145,9 @@ A multi-agent AI platform that helps users prepare for interviews.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jatinswarnkar&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinswarnkar&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -157,7 +157,7 @@ A multi-agent AI platform that helps users prepare for interviews.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinswarnkar&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -167,7 +167,7 @@ A multi-agent AI platform that helps users prepare for interviews.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/jatinswarnkar/jatinswarnkar/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -177,7 +177,7 @@ A multi-agent AI platform that helps users prepare for interviews.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=jatinswarnkar&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
